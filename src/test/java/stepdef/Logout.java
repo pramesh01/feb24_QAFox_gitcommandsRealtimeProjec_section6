@@ -19,8 +19,7 @@ public class Logout {
 	 UserDashboardPage udp;
 	 AfterLogoutPage alp;
 	 
-	 //LogOut file for comiting purpose.
-	 
+	//i again inserted pushed this code
 TestContext context;
 	 
 	 public Logout( TestContext context){
