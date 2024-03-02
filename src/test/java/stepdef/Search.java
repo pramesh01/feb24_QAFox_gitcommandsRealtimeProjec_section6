@@ -6,7 +6,7 @@ import io.cucumber.java.en.*;
 import pages.HomePage;
 import util.TestContext;
 
-//removed my previous comment and added this new one
+//removed my previous comment and added this new one- chaging my plan again
 //i modified it directly from repository
 
 public class Search {
