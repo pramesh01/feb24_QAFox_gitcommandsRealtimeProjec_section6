@@ -6,8 +6,13 @@ import io.cucumber.java.en.*;
 import pages.HomePage;
 import util.TestContext;
 
+<<<<<<< HEAD
 //removed my previous comment and added this new one- chaging my plan again
 //i modified it directly from repository
+=======
+//removed my previous comment and added this new one
+//i modified it directly from repository - adding something again directly
+>>>>>>> 75e1ba3b3c161d4d5db0dd6d5d3bed6b00b78c94
 
 public class Search {
 	WebDriver driver;
