@@ -7,9 +7,7 @@ import pages.HomePage;
 import util.TestContext;
 
 //removed my previous comment and added this new one- chaging my plan again
-//i modified it directly from repository - adding something again directly
-
-
+//fresh comment in repository.
 public class Search {
 	WebDriver driver;
 	HomePage hp;
