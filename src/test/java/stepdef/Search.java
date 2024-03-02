@@ -7,7 +7,7 @@ import pages.HomePage;
 import util.TestContext;
 
 //removed my previous comment and added this new one
-//i modified it directly from repository
+//i modified it directly from repository - adding something again directly
 
 public class Search {
 	WebDriver driver;
