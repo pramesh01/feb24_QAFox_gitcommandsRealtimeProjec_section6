@@ -13,7 +13,6 @@ import pages.RegisterPage;
 import util.TestContext;
 import util.TimeStamp;
 
-//hello
 public class Register {
 	
 	WebDriver driver;
