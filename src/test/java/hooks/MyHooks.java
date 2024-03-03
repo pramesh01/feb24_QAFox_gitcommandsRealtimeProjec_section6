@@ -22,7 +22,7 @@ public class MyHooks {
 		this.context=context;
 	}
 	
-	
+	//some changes are available here for branching purpose
 	@Before
 	public void setup(Scenario sc) {
 		Properties prop=PropertyFileReader.initializePropertyfile();
